@@ -41,7 +41,7 @@ public class ContadorExpresionesRegulares {
 
         System.out.println("PareNoel: " + parenoelC);
         System.out.println("Ren: " + renC);
-        System.out.println("Follet: " + folletC);
+        System.out.println("Follet: " + (folletC-parenoelC));
 
         System.out.println("LINEAS:  " + lineC);
     }
